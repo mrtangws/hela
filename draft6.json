@@ -2,7 +2,7 @@
     "$metadata": {
         "type": "ATMCredential",
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft6.json-ld"
+            "jsonLdContext": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft6.jsonld"
         },
         "version": "0.01"
     },
