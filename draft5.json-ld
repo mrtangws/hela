@@ -12,9 +12,10 @@
           "@protected": true,
           "id": "@id",
           "type": "@type",
+		  "atm-vocab": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.json-ld",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "access": {
-            "@id": "access",
+            "@id": "atm-vocab:access",
             "@type": "xsd:string"
           }
         }
