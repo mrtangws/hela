@@ -113,12 +113,6 @@
           "type": "string",
           "format": "uri"
         },
-        "birthday": {
-          "type": "integer"
-        },
-        "documentType": {
-          "type": "integer"
-        },
 		"access": {
 		  "type": "string"
 		}
