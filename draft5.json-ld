@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "KYCAgeCredential": {
-        "@id": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.jsonld#KYCAgeCredential",
+        "@id": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.json-ld#KYCAgeCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,
@@ -25,7 +25,7 @@
         }
       },
       "KYCCountryOfResidenceCredential": {
-        "@id": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.jsonld#KYCCountryOfResidenceCredential",
+        "@id": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.json-ld#KYCCountryOfResidenceCredential",
         "@context": {
           "@version": 1.1,
           "@protected": true,

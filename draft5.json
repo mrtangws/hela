@@ -3,7 +3,7 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.jsonld",
+      "jsonLdContext": "hhttps://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.json-ld",
       "jsonSchema": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/draft5.json"
     }
   },
