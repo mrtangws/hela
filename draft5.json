@@ -106,7 +106,9 @@
       "type": "object",
       "required": [
         "id",
-        "access"
+        "birthday",
+        "documentType",
+		"access"
       ],
       "properties": {
         "id": {
@@ -114,9 +116,15 @@
           "type": "string",
           "format": "uri"
         },
-        "access": {
-          "type": "string"
-        }
+        "birthday": {
+          "type": "integer"
+        },
+        "documentType": {
+          "type": "integer"
+        },
+		"access": {
+		  "type": "string"
+		}
       }
     }
   }
