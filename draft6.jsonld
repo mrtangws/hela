@@ -1,0 +1,21 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "ATMCredential": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "access": {
+                        "@id": "access",
+                        "@type": "xsd:string"
+                    }
+                }
+            }
+        }
+    ]
+}
