@@ -2,9 +2,9 @@
   "title": "ATM Credential",
   "description": "Air Traffic Management",
   "issuerName": "AIRLab Issuer",
-  "titleTextColor": "#54ACFF",
-  "descriptionTextColor": "#54ACFF",
-  "issuerTextColor": "#54ACFF",
+  "titleTextColor": "#7986FF",
+  "descriptionTextColor": "#7986FF",
+  "issuerTextColor": "#7986FF",
   "backgroundImageUrl": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/credentialbackground.jpg",
   "logo": {
     "uri": "https://raw.githubusercontent.com/mrtangws/hela/refs/heads/main/airlablogo.png",
